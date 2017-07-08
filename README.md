@@ -1,2 +1,10 @@
-# blog20170708
-我的博客
+# 我的第一个博客
+
+##制作过程
+
+1.新建一个repo
+2.新建index.html
+
+##如何预览
+
+点击 https://youyou-happy.github.io/blog20170708/ 即可预览
